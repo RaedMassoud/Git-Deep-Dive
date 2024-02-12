@@ -1,3 +1,4 @@
 Use "git checkout -b branchName" to create a branch
 Use "git branch to show all branches and the selected branch
-use "git switch branchName" to switch between branches
+Use "git switch branchName" to switch between branches
+Use "git branch -d branchName" to delete a branch
