@@ -1,0 +1,4 @@
+Use "git tag" to view all tags
+Use "git tag -a v1.0 -m" to create a tag of name v1.0 and a message
+Use "git show v1.0" to show information about the tag
+Use "git push origin v1.0" to push tags
