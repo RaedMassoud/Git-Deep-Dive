@@ -2,3 +2,6 @@ Use "git checkout -b branchName" to create a branch
 Use "git branch to show all branches and the selected branch
 Use "git switch branchName" to switch between branches
 Use "git branch -d branchName" to delete a branch
+
+Use "git pull origin main" before you merge branches
+Use "git merge branchName" to merge (be in main branch)
