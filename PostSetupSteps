@@ -1,0 +1,3 @@
+* use "git add" to add files and folders you want to your staging area
+* use "git commit -m" to commit files and folders in the staging area
+* use "git push origin main" to push committed folders and files from local machine to Github
