@@ -1,0 +1,7 @@
+* Create Repository
+* Use "git init" to initiate git
+* Use "git branch -M main" to create main branch
+* Use "ssh-keygen -o" to generate public and private rsa key
+* Add key to Github relative repository
+* Use "git remote add origin *link*"
+* Use "git push -u origin main"
